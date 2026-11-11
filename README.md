@@ -1,2 +1,3 @@
-# bulgar_businessstorages_config_example
-bulgar_businessstorages_config_example
+# BulgaR Business Storages Script
+
+Preview settings for my paid script
