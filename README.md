@@ -1,0 +1,2 @@
+# bulgar_businessstorages_config_example
+bulgar_businessstorages_config_example
